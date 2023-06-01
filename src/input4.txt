@@ -1,0 +1,7 @@
+program teste;
+	var i, n, f: int;
+    begin:
+	 n := 30;
+	 i := 4;
+	 f := n + i;
+	 print(f)

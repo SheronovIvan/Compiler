@@ -2,7 +2,7 @@ program teste;
 	var a, b: int;
 		x: boolean;
 
-	function fib(n: int): int;
+	function fib(n: int):
 		begin
 			if n = 0 then
 				fib := 0
